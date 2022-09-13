@@ -1,0 +1,32 @@
+.container{
+    height: 100px;
+    width : 100px;
+    background-color: #0072ff;
+    position: fixed;
+    top: 24%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    margin: auto;
+    color:white
+}
+.container2{
+    height: 100px;
+    width : 100px;
+    background-color: #240351;
+    position: sticky;
+    top: 0px;
+    left: 50%;
+    text-align: center;
+    margin: auto;
+    color:white
+}
+
+body{
+    height: 2000px;
+}
+span{
+    position: absolute;
+    top: 36%;
+    left: 22%;
+}
